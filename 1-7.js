@@ -15,7 +15,6 @@ function isOver60(arrayValue) {
    if (firstValOver60 != undefined) {
     console.log(firstValOver60);
    }
-   1-8
    else {
     console.log("No values over 60");
    }
